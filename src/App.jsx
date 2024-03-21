@@ -1,12 +1,15 @@
-import React from 'react'
 import Demo from './Components/Basics/Demo'
-import Todo from './Components/Context/Todo/Todo'
+import Form1 from './Components/Forms/Form1'
+import Form2 from './Components/Forms/Form2'
+import Form3 from './Components/Forms/Form3'
 
 function App() {
   return (
     <div className='text-center'>
       <Demo />
-      <Todo />
+      <Form1 />
+      <Form2 />
+      <Form3 />
     </div>
   )
 }

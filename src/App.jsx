@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='text-center'>
       <Demo />
-      {/* <Form1 /> */}
+      <Form1 />
       {/* <Form2 /> */}
       {/* <Form3 /> */}
     </div>

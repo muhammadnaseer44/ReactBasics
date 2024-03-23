@@ -8,7 +8,7 @@ function App() {
     <div className='text-center'>
       <Demo />
       <Form1 />
-      {/* <Form2 /> */}
+      <Form2 />
       {/* <Form3 /> */}
     </div>
   )
